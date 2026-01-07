@@ -1,5 +1,8 @@
 # Toyota Used Car Price Prediction
 
+## Project Status
+**Completed** — Final Random Forest model trained, evaluated, and saved.
+
 ## Project Overview
 This project analyzes a dataset of used Toyota vehicles to identify the key factors that influence vehicle prices and to build machine learning models that accurately predict car prices.
 
